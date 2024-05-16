@@ -6,7 +6,7 @@
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 
 <p align="center">
-<a href="https://github.com/EstiloNaka/createEbook/blob/main/output/EBOOK_DEVS_NOVATOS.pdf)" title="View PDF now"> 📕 Clique aqui para ler o Ebook DEVs NOVATOS</a>
+<a href="https://github.com/EstiloNaka/createEbook/blob/main/output/EBOOK_DEVS_NOVATOS.pdf" title="View PDF now"> 📕 Clique aqui para ler o Ebook DEVs NOVATOS</a>
 </p>
 
 -------
